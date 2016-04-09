@@ -10,4 +10,4 @@ This is a example code of ''Spring Data Projection''.
 #How to use
 - Just see the example code.
 - Just download the code and "Run 'gradle build'".
-- Just read the my blog.
+- Just read the my blog(http://atinjin.blogspot.kr/2016/04/spring-data-projection.html).
